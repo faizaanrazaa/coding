@@ -1,0 +1,21 @@
+//Author  : Faizaan sheikh
+//Problem : 
+#include <bits/stdc++.h>    
+#define ll long long
+using namespace std;
+#define mod 1000000007
+#define pb push_back
+#define T() int t; cin>>t;while(t--)
+#define FOR(i,a,b) for(int i=(a);i<(b);i++)
+#define FORR(i,n) for(int i=(n);i>=0;i--)
+#define deb(x) cout << #x << " "<< x << endl;
+
+int main(int argc, char const *argv[]) {
+
+    //Fast i/o
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+    
+    return 0;
+}
